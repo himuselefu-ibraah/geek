@@ -1,0 +1,6 @@
+# a program to return area of a trapezium fom= 0.5h(a+b)
+a = int(input("Enter longest side:"))
+b = int(input("Enter shortest side:"))
+h = int(input("Enter height side:"))
+area = 0.5*(h) *(a+b)
+print("Area",area)
